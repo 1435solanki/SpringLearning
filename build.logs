@@ -22,7 +22,7 @@
 [INFO] 
 [INFO] --- maven-compiler-plugin:3.3:compile (default-compile) @ springDemo ---
 [INFO] Changes detected - recompiling the module!
-[INFO] Compiling 4 source files to /Users/solankiv/workspace/springDemo/target/classes
+[INFO] Compiling 7 source files to /Users/solankiv/workspace/springDemo/target/classes
 [INFO] 
 [INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ springDemo ---
 [INFO] Using 'UTF-8' encoding to copy filtered resources.
@@ -39,7 +39,7 @@
  T E S T S
 -------------------------------------------------------
 Running com.spring.demo.springDemo.SpringDemoTest
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
 
 Results :
 
@@ -677,7 +677,7 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 7.875 s
-[INFO] Finished at: 2017-12-08T19:19:13+05:30
-[INFO] Final Memory: 48M/618M
+[INFO] Total time: 8.603 s
+[INFO] Finished at: 2017-12-10T13:54:33+05:30
+[INFO] Final Memory: 44M/631M
 [INFO] ------------------------------------------------------------------------

@@ -38,6 +38,6 @@ public class springData {
 	
 	public String getInfo(){
 		LOG.info("Reading Json String ");
-		return jsonString;
+		return jsonString.trim();
 	}
 }
