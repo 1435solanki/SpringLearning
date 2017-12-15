@@ -1,0 +1,7 @@
+---
+queriesMap:
+  
+    studentInfo: >
+        {
+            "match":{"studentname":"vikas solanki"}
+        }
